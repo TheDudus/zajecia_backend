@@ -9,7 +9,6 @@ public class Main2 {
         System.out.println(java.time.LocalTime.now());
 
         ZoneId global = ZoneId.of("Etc/Greenwich");
-
         System.out.println(java.time.ZonedDateTime.now(global));
     }
 }
