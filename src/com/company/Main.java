@@ -2,6 +2,8 @@ package com.company;
 
 public class Main {
 
+    //Ex 3
+
     public static int searchIndex(int array[],int value){
         int index = 0;
         int limit = array.length -1;

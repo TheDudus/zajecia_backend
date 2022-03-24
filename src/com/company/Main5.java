@@ -4,16 +4,15 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class Main4 {
+public class Main5 {
 
-    //Ex 6
+    //Ex 1
 
-    public static void main(String[] args) {
-
+    public static void main(String[] args)  {
         FileInputStream file = null;
 
         try{
-            file = new FileInputStream("Input_Output_Files/lorem.txt");
+            file = new FileInputStream("Input_Output_Files/file.txt");
         }
         catch(FileNotFoundException e ){
             System.out.println("File not found!!!");
@@ -21,13 +20,12 @@ public class Main4 {
         }
 
         int line = 0;
-        String file_text = "";
 
         try{
             line = file.read();
             while(line != -1)
             {
-                file_text = file_text + (char)line;
+                System.out.print((char)line);
                 line = file.read();
             }
         }
@@ -35,12 +33,12 @@ public class Main4 {
             System.out.println("Reading error!!!");
             System.exit(2);
         }
-        //System.out.println(file_text);
-        String[] splitted = file_text.split("-");
 
-        for( int i = 0 ; i < splitted.length ; i++)
-        {
-            System.out.println((i+1)+"."+splitted[i]);
+        try{
+            file.close();
+        }
+        catch(IOException e){
+            e.printStackTrace();
         }
     }
 }
