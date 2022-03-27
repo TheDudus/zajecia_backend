@@ -12,7 +12,7 @@ public class Main3 {
             boolean code = (boolean) i;
             for( int x = 0 ; x < 8 ; x++)
             {
-                code = (code & 0x01 ? 0xEDB88320 ^ (code >>> 1) : (code >>> 1));
+                code = (code & 0x01 != 0 ? 0xEDB88320 ^ (code >>> 1) : (code >>> 1));
             }
             CRC_TABLE[i] = code;
         }

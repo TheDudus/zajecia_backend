@@ -13,7 +13,7 @@ public class Main6 {
 
         try(FileOutputStream file_output = new FileOutputStream("Input_Output_Files//Output_file.txt")) {
             String text = "Duis ac risus placerat metus lacinia ornare in nec ex.";
-            byte[] text_to_bytes = text.getBytes();
+            byte[] text_to_bytes = text.getBytes(StandardCharsets.UTF_8);
 
             file_output.write(text_to_bytes);
         }

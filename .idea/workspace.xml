@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2c5e7ba-a4c2-4e98-aa1b-acabd7726f37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1/lab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input_Output_Files/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Input_Output_Files/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input_Output_Files/lorem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Input_Output_Files/lorem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/lab1/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/com/company/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/lab1/com/company/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/com/company/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/lab1/com/company/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/com/company/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/lab1/com/company/Main4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/com/company/Main5.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/lab1/com/company/Main5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/com/company/Main6.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/lab1/com/company/Main6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/com/company/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/com/company/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/com/company/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/com/company/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/com/company/Main6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26yI3l2d7kqVuxDFVAloxFValmR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\bartosz.krochmal\Desktop\zajecia_backend\Lab1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c5e7ba-a4c2-4e98-aa1b-acabd7726f37" name="Changes" comment="" />
+      <created>1648389203910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648389203910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
