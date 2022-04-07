@@ -1,10 +1,13 @@
 package com.example.demo;
 
+import org.apache.tomcat.util.http.fileupload.IOUtils;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
+
+
+import java.io.IOException;
+import java.io.InputStream;
+
 
 @Controller
 public class HomeController {
@@ -26,12 +29,6 @@ public class HomeController {
         return "TEST " + " " + name + " " + age;
     }
 
-    @RequestMapping("/users")
-    @ResponseBody
-    public String index3(
 
-
-    ) {
-        return "";
-    }
+    
 }

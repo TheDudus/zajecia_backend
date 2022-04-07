@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class TemplateController {
 
     @RequestMapping("/t")
-    @ResponseBody
+
     public String index() {
         return "Template";
     }
